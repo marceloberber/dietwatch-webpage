@@ -1,6 +1,5 @@
 ---
-
-name: Deploy static content to Pages
+name: Pipeline para build e deploy de aplicação no GitHub Pages
 
 on:
   push:
@@ -26,15 +25,13 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Setup Pages
+      - name: Configurar Pages
         uses: actions/configure-pages@v3
-      - name: Upload artifact
+      - name: Carregar artefatos do Pages
         uses: actions/upload-pages-artifact@v2
         with:
           path: '.'
-      - name: Deploy to GitHub Pages
+      - name: Deploy no GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
-
-
 ...
