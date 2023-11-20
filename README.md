@@ -1,4 +1,4 @@
-# Projeto Core DevOps — Webpage DietWach
+# Projeto Core DevOps — Webpage DietWatch
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/marceloberber/dietwatch-webpage/blob/main/LICENSE)
 ## Desenvolvimento da pipeline de build e deploy de aplicação
 
