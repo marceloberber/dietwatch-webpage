@@ -12,4 +12,8 @@ Neste repo, encontramos o código-fonte de uma aplicação web estática e respo
 
 **MBA FIAP 01.2023 — 3DVPR**
 
-**Autores:** *Marcelo Berber — 348970*
+**Autores:**
+
+* *Dashiell Borges — 349204*
+* *Marcelo Berber — 348970*
+* *Silas Alves — 348250*
